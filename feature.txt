@@ -1,2 +1,5 @@
 file feature.txt
+
 changing in featureConflict branch
+changing in main branch
+
